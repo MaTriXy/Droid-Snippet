@@ -14,13 +14,18 @@ Usage:
 Find the **Droid Snippet** action  with `CMD+J` shortcut and type the initials of the utils you are looking for.
 ### Available Utils :
 
-* Utils
-* Network Utils
-* Device Utils
-* Screen Utils
-* Location Utils
-* Permission Utils
+
+* ![Device Utils](ref/DeviceUtils.md)
+* File Utils
+* ImageUtils
 * Intent Utils
+* Location Utils
+* Network Utils
+* Permission Utils
+* Screen Utils
+* ServiceUtils
+* Time Utils
+* Utils (General Utilities like isEmpty, isSpace)
 
 ## Installation
 
